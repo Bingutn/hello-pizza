@@ -1,4 +1,4 @@
 # Hello Pizza
 
 Built with React Query and Supabase.<br />
-https://helloo-pizza.netlify.app/
+<a href='https://helloo-pizza.netlify.app/'>Check this out!</a>
